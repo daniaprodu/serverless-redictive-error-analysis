@@ -1,0 +1,7 @@
+Data,Serviço,Tempo_Execucao_ms,Timeout,Erro,Reprocessamento,Qtd_Logs_Gerados,Tarefa_ID,Tempo_Desenvolvimento_h,Impedimento,Tempo_Impedimento_h
+01/04/2025,Lambda,60000,60000,timeout,Sim,2,1510,24,Não,0
+02/04/2025,Lambda,85000,60000,Alto tempo de execução,Sim,2,1510,24,Não,0
+02/04/2025,Lambda,85000,60000,timeout,Sim,2,1611,24,Não,0
+03/04/2025,Lambda,85000,60000,timeout,Sim,2,1611,24,Não,0
+11/04/2025,Lambda,85000,60000,timeout,Sim,2,1611,24,Não,0
+14/04/2025,Lambda,40000,60000,Erro 400 na api,Sim,2,1611,24,Sim,24
